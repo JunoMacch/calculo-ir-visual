@@ -1,5 +1,5 @@
 # Cálculo de Imposto de Renda com Interface Visual
-Este é um projeto simples desenvolvido em Java que realiza o cálculo do Imposto de Renda (IR) de acordo com a tabela de alíquotas progressivas.
+Este é um projeto acadêmico desenvolvido em Java para realizar o cálculo do Imposto de Renda (IR) de acordo com a tabela de alíquotas progressivas.
 
 ## Funcionalidades
 
