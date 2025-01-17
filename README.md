@@ -15,7 +15,6 @@ Este é um projeto acadêmico desenvolvido em Java para realizar o cálculo do I
 
 ## Tecnologias Utilizadas
 - Linguagem: Java
-- Paradigma: Orientação a Objetos
 - IDE recomendada: IntelliJ IDEA / Eclipse / NetBeans
 
 ## Próximos Passos
